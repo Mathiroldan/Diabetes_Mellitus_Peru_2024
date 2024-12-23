@@ -99,7 +99,7 @@ La validación cruzada garantizó la generalización del modelo y se siguieron l
 ### 6) **Presentación:**
 Finalmente, se presentó el MVP en el Demo Day del día 12/12/2024 utilizando PowerPoint para la presentación del tablero y haciendo una demostración en vivo del deploy, utilizando Streamlit.
 
-| Vista General Dashboards Power BI                                                                       | 
+| Vista General de la presentación y Dashboard Power BI                                                                       | 
 | ----------------------------------------------------------------------------------------------- |
 | <img src="Imagenes/resultado_presentacion.gif" alt="Interface Animation"  width="100%" /> |
 
